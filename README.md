@@ -3,7 +3,7 @@ Code associated with the submitted publication of Ayantika Sen Gupta, for 1) Fin
 
 Pipeline combines processing in FiJi and python.  FiJi should have the "Stowers" package module installed from the manager.
 
-1.  Hand annotate pairs of peaks in the original images using FiJi and save roi .zip files.  Alternatively can run PeakFinder.ipynb as a jupyter notebook to generate these zip files automatically (you will likely need to tweak some parameters in the find_peaks_in_file function)
+1.  Hand annotate pairs of peaks in the original images using FiJi and save roi .zip files.  Alternatively can run PeakFinder.ipynb as a jupyter notebook to generate these zip files automatically (you will likely need to tweak some parameters in the find_peaks_in_file function).
 
 2. With an image and its corresponding ROI list opened:  run 1-roi_macro_v2.ijm in FiJi to get the cropped areas that have corresponding point ROIs added to them.
 
