@@ -11,3 +11,4 @@ Pipeline combines processing in FiJi and python.  FiJi should have the "Stowers"
 
 4.  Run spa_sim_alignment.ipynb as a jupyter notebook to perform merging, filtering, and kymograph analysis.
 
+Written by Jay Unruh and Sean McKinney of the Stowers Institute for Medical Research
